@@ -4,7 +4,8 @@
 > This project has been retired and archived  
 > The project is based on [Vue2 which is now EOL](https://v2.vuejs.org/eol/) and to migrate to Vue 3 would require major rework.  
 >  
-> A commercial offering "Teneo Web Widget" will be available from Artificial Solutions in the near future which is based on a more modern tech stack and will benefit from commercial support.  
+> A commercial offering "Teneo Web Widget" is available from Teneo.ai now which is based on a more modern tech stack and will benefit from commercial support.
+> You can find [Teneo Web Widget releases here](https://github.com/artificialsolutions/teneo-web-widget/releases)  
 > If there is a need of continued use / development of this project for your own needs please feel free to fork the project - which will remain here in archived form.
 
 ## Overview
