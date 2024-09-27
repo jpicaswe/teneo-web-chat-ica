@@ -21,7 +21,7 @@ export const store = new Vuex.Store({
         titleIconUrl: '',
         teneoEngineUrl: '',
         teneoEngineParams: {},
-        showCloseButton: false,
+        showCloseButton: true,
         agentAvatarUrl: '',
         botAvatarUrl: '',
         userAvatarUrl: '',
