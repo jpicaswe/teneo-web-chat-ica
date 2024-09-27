@@ -108,6 +108,7 @@ If you want to run the code locally, proceed as follows:
 2.  Install dependencies:
 
     ```node
+    Make sure your Node version is 16 by using a Node version installer
     npm install
     ```
 
