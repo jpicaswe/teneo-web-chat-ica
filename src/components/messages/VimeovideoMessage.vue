@@ -44,7 +44,7 @@ export default {
   border-bottom-left-radius: 0%;
 }
 
-iframe {
+.twc-vimeo-video iframe {
   background: none;
   width: 260px;
   height: 150px;
